@@ -50,4 +50,4 @@ It focuses on practicing layout design and building clean UI using only HTML and
 
 Your Name  
 GitHub: (add link)  
-LinkedIn: (add link)
+LinkedIn: (www.linkedin.com/in/badr-ahmed-13b864300)
